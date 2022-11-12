@@ -1,7 +1,6 @@
 ---
 layout: post
 published: true
-class: wide
 title: How to break the loop with esc in maya
 ---
 
