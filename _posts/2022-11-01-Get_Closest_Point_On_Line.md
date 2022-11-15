@@ -9,7 +9,7 @@ The following is a conceptual description of the **[k.ba.fn](https://github.com/
 
 > <span style="font-size:16px;">refer to : </span>   
 > <span style="font-size:16px;">[https://wizardmania.tistory.com/m/20](https://wizardmania.tistory.com/m/20)</span>  
-> <span style="font-size:16px;">[https://m.blog.naver.com/qio910/221778224660](https://m.blog.naver.com/qio910/221778224660) </span> 
+> <span style="font-size:16px;">[https://m.blog.naver.com/qio910/221778224660](https://m.blog.naver.com/qio910/221778224660) </span>    
 > <span style="font-size:16px;">[https://forums.cgsociety.org/t/snap-vertices-to-nearest-point-on-curve-or-edge/1833911](https://forums.cgsociety.org/t/snap-vertices-to-nearest-point-on-curve-or-edge/1833911) </span>
 
 
