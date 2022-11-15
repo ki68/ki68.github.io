@@ -7,7 +7,7 @@ title: Get the closest point of intersection on line in orthogonal projection (ì
 The following is a conceptual description of the **[k.ba.fn](https://github.com/ki68/k/blob/main/ba/fn.py).closest_point(mesh, pos)** function.
 
 
-> <span style="font-size:3em;">refer to : </span> 
+> <span style="font-size:12px;">refer to : </span> 
 > [https://wizardmania.tistory.com/m/20](https://wizardmania.tistory.com/m/20)  
 > [https://m.blog.naver.com/qio910/221778224660](https://m.blog.naver.com/qio910/221778224660)  
 > [https://forums.cgsociety.org/t/snap-vertices-to-nearest-point-on-curve-or-edge/1833911](https://forums.cgsociety.org/t/snap-vertices-to-nearest-point-on-curve-or-edge/1833911)
