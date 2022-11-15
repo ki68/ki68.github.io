@@ -12,7 +12,7 @@ The following is a conceptual description of the **[k.ba.fn](https://github.com/
 > [https://forums.cgsociety.org/t/snap-vertices-to-nearest-point-on-curve-or-edge/1833911](https://forums.cgsociety.org/t/snap-vertices-to-nearest-point-on-curve-or-edge/1833911)
 
 
-<span style="font-family:NanumSquare; font-size:12em;">Based on the links, </span> the meaning of the function was conceptualized as an image.
+<span style="font-size:12em;">Based on the links, </span> the meaning of the function was conceptualized as an image.
 
 <img src="/images/Get_Closest_Point_On_Line.png" width="800" height="400"/>
 
