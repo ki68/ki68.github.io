@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: Get the closest point of intersection on line in orthogonal projection (선분의 가장 가까운 교차점 얻기)
 ---
 
@@ -11,7 +12,7 @@ The following is a conceptual description of the **[k.ba.fn](https://github.com/
 > [https://forums.cgsociety.org/t/snap-vertices-to-nearest-point-on-curve-or-edge/1833911](https://forums.cgsociety.org/t/snap-vertices-to-nearest-point-on-curve-or-edge/1833911)
 
 
-Based on the links, the meaning of the function was conceptualized as an image.
+<span style="font-family:NanumSquare; font-size:4em;">Based on the links, </span> the meaning of the function was conceptualized as an image.
 
 <img src="/images/Get_Closest_Point_On_Line.png" width="800" height="400"/>
 
