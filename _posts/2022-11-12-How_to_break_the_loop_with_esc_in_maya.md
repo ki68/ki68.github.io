@@ -4,6 +4,10 @@ published: true
 title: How to break the loop with esc in maya
 ---
 
+```javascript
+<script src="https://gist.github.com/ki68/de9a2cfb3e4415be01594fffad4c518d.js"></script>
+```
+
 ```python
 import time
 import maya.cmds as mc
