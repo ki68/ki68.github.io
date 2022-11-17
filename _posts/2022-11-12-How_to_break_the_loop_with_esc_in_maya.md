@@ -6,18 +6,18 @@ title: How to break the loop with esc in maya
 
 <script
   type="text/javascript"
-  src="https://cdn.jsdelivr.net/npm/gist-embed@1.0.4/dist/gist-embed.min.js"></script>
+  src="https://gist.github.com/ki68/de9a2cfb3e4415be01594fffad4c518d.js"></script>
   
 ```html
 <script
   type="text/javascript"
-  src="https://cdn.jsdelivr.net/npm/gist-embed@1.0.4/dist/gist-embed.min.js"></script>
+  src="https://gist.github.com/ki68/de9a2cfb3e4415be01594fffad4c518d.js"></script>
 ```  
   
 ```javascript
 <script
   type="text/javascript"
-  src="https://cdn.jsdelivr.net/npm/gist-embed@1.0.4/dist/gist-embed.min.js"></script>
+  src="https://gist.github.com/ki68/de9a2cfb3e4415be01594fffad4c518d.js"></script>
 ```
 
 ```html
