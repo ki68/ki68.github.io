@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Iris Scale Rig
+title: Iris Scale Rig Concept
 ---
 
 Basic Principle / Sample Movie
