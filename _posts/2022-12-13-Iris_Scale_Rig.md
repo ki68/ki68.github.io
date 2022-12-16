@@ -6,8 +6,7 @@ title: Iris Scale Rig Concept
 
 Basic Principle / Sample Movie
 
-<img src="/images/Iris_Scale_Basic_Principle.png"/> 
-{% include youtube.html id="tMhx1HAdkMs" %}
+<img src="/images/Iris_Scale_Basic_Principle.png"/> {% include youtube_half.html id="tMhx1HAdkMs" %}
 
 
 
