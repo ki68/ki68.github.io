@@ -4,7 +4,7 @@ published: true
 title: Iris Scale Rig Concept
 ---
 
-Basic Principle / Sample Movie
+Basic Principle 
 
 <img src="/images/Iris_Scale_Basic_Principle.png"/>
 
