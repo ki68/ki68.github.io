@@ -8,7 +8,7 @@ Basic Principle - getPointAtParam of MFnNurbsCurve, an approximate value loop
 
 [![Video Label](http://img.youtube.com/vi/FmmKyC-xgmQ/0.jpg)](https://youtu.be/FmmKyC-xgmQ)
 
-```
+
 <div class="embed-container">
     <iframe width="640" height="390" 
     src="https://www.youtube.com/embed/FmmKyC-xgmQ" 
@@ -32,5 +32,5 @@ Basic Principle - getPointAtParam of MFnNurbsCurve, an approximate value loop
   height: 100%;
 }
 </style>
-```
+
 
